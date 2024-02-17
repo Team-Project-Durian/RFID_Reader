@@ -1,21 +1,21 @@
 # RFID_Reader
 
 ## v.0.0
-<p>funtion : Only read rfid.</p>
+<p>funtion : Only read RFID.</p>
 
 ## v.0.1
 <p>
-funtion : <br>
-- read rfid. <br>
+function : <br>
+- read RFID. <br>
 - connect wifi. <br>
-- sent data to nodered. <br>
+- sent data to node-red. <br>
 </p>
 
 ## v.0.2
 <p>
-funtion : <br>
-- read rfid. <br>
+function : <br>
+- read RFID. <br>
 - connect wifi. <br>
-- sent data to nodered. <br>
+- sent data to node-red. <br>
 - can change connect wifi. <br>
 </p>
